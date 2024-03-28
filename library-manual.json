@@ -27,6 +27,10 @@
     {
       "version": "0.2.5",
       "url": "https://github.com/pamgene/STK_CT1T2T3_template"
+    },
+    {
+      "version": "0.0.2",
+      "url": "https://github.com/pamgene/UKA_barplot_app"
     }
   ]
 }
