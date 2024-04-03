@@ -31,6 +31,10 @@
     {
       "version": "0.2.8",
       "url": "https://github.com/pamgene/UKA_app"
+    },
+    {
+      "version": "0.0.2",
+      "url": "https://github.com/pamgene/UKA_barplot_app"
     }
   ]
 }
