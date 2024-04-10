@@ -17,11 +17,11 @@
       "url": "https://github.com/pamgene/STK_C1T1C2T2_template"
     },
     {
-      "version": "0.2.10",
+      "version": "0.2.11",
       "url": "https://github.com/pamgene/PTK_CT1T2T3_template"
     },
     {
-      "version": "0.2.9",
+      "version": "0.2.10",
       "url": "https://github.com/pamgene/STK_CT1T2T3_template"
     },
     {
@@ -39,6 +39,10 @@
     {
       "version": "0.1.6",
       "url": "https://github.com/tercen/plot_operator"
+    },
+    {
+      "version": "0.2.2",
+      "url": "https://github.com/tercen/thresholding_operator"
     }
   ]
 }
