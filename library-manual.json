@@ -43,6 +43,10 @@
     {
       "version": "0.2.2",
       "url": "https://github.com/tercen/thresholding_operator"
+    },
+    {
+      "version": "0.1.7",
+      "url": "https://github.com/tercen/plot_operator"
     }
   ]
 }
