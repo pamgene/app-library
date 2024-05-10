@@ -47,6 +47,10 @@
     {
       "version": "0.1.7",
       "url": "https://github.com/tercen/plot_operator"
+    },
+    {
+      "version": "0.10.3",
+      "url": "https://github.com/tercen/pearson_operator"
     }
   ]
 }
