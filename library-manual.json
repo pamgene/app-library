@@ -1,11 +1,11 @@
 {
   "repos": [
     {
-      "version": "0.0.15",
+      "version": "0.0.16",
       "url": "https://github.com/pamgene/UKA_MTvC_app"
     },
     {
-      "version": "0.0.19",
+      "version": "0.0.20",
       "url": "https://github.com/pamgene/UKA_TGC_app"
     },
     {
