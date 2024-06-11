@@ -1,22 +1,6 @@
 {
   "repos": [
     {
-      "version": "0.0.16",
-      "url": "https://github.com/pamgene/UKA_MTvC_app"
-    },
-    {
-      "version": "0.0.20",
-      "url": "https://github.com/pamgene/UKA_TGC_app"
-    },
-    {
-      "version": "0.1.1",
-      "url": "https://github.com/pamgene/uka_operator"
-    },
-    {
-      "version": "0.0.4",
-      "url": "https://github.com/pamgene/uka_operator"
-    },
-    {
       "version": "0.3.1",
       "url": "https://github.com/pamgene/STK_C1T1C2T2_template"
     },
@@ -33,7 +17,19 @@
       "url": "https://github.com/pamgene/PTK_C1T1C2T2_template"
     },
     {
+      "version": "0.0.16",
+      "url": "https://github.com/pamgene/UKA_MTvC_app"
+    },
+    {
+      "version": "0.0.20",
+      "url": "https://github.com/pamgene/UKA_TGC_app"
+    },
+    {
       "version": "0.2.8",
+      "url": "https://github.com/pamgene/UKA_app"
+    },
+    {
+      "version": "0.3.1",
       "url": "https://github.com/pamgene/UKA_app"
     },
     {
@@ -41,8 +37,16 @@
       "url": "https://github.com/pamgene/UKA_barplot_app"
     },
     {
-      "version": "0.1.6",
-      "url": "https://github.com/tercen/plot_operator"
+      "version": "0.1.1",
+      "url": "https://github.com/pamgene/uka_operator"
+    },
+    {
+      "version": "0.0.4",
+      "url": "https://github.com/pamgene/uka_operator"
+    },
+    {
+      "version": "0.3.3",
+      "url": "https://github.com/pamgene/uka_shiny_operator"
     },
     {
       "version": "0.1.7",
