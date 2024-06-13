@@ -9,7 +9,7 @@ These include:
 Private or no-test operators:
 - uka_operator - in UKA_MTvC, UKA_TGC app and these apps are in all Data analysis workflows
 - plot_operator - in UKA_barplot_app
-- thresholding_operator (no test)
+- thresholding_operator (no test) - in STK_QC_LOD_app
 
 Apps and operators of earlier version than the last one 
 
