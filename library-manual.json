@@ -59,6 +59,10 @@
     {
       "version": "0.0.4",
       "url": "https://github.com/pamgene/QC_STK_LOD_app"
+    },
+    {
+      "version": "0.0.1",
+      "url": "https://github.com/pamgene/limma_psa_operator"
     }
     
   ]
