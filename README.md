@@ -11,7 +11,7 @@ Private or no-test operators:
 - plot_operator - in UKA_barplot_app
 - thresholding_operator (no test) - in STK_QC_LOD_app
 
-Apps and operators of earlier version than the last one 
+Apps and operators of earlier version than the last one. These will be moved to library_previous_versions
 
 UKA_app 0.2.8: uses UKA-2022 db
 UKA_app 0.3.1: uses UKA-2023 db
