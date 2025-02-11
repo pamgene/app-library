@@ -85,6 +85,10 @@
       "url": "https://github.com/pamgene/limma_psa_operator"
     },
     {
+      "version": "0.0.3",
+      "url": "https://github.com/pamgene/Limma_app"
+    },
+    {
       "version": "0.1.1",
       "url": "https://github.com/pamgene/vsn_shiny_operator"
     },
