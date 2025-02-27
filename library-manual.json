@@ -1,6 +1,14 @@
 {
   "repos": [
     {
+      "version": "0.0.1",
+      "url": "https://github.com/pamgene/PTK_template"
+    },
+    {
+      "version": "0.0.1",
+      "url": "https://github.com/pamgene/STK_template"
+    },
+    {
       "version": "0.3.3",
       "url": "https://github.com/pamgene/STK_C1T1C2T2_template"
     },
@@ -14,22 +22,6 @@
     },
     {
       "version": "0.3.2",
-      "url": "https://github.com/pamgene/PTK_C1T1C2T2_template"
-    },
-    {
-      "version": "0.3.2",
-      "url": "https://github.com/pamgene/STK_C1T1C2T2_template"
-    },
-    {
-      "version": "0.3.2",
-      "url": "https://github.com/pamgene/PTK_CT1T2T3_template"
-    },
-    {
-      "version": "0.3.2",
-      "url": "https://github.com/pamgene/STK_CT1T2T3_template"
-    },
-    {
-      "version": "0.3.1",
       "url": "https://github.com/pamgene/PTK_C1T1C2T2_template"
     },
     {
