@@ -36,10 +36,6 @@
       "version": "0.3.7",
       "url": "https://github.com/pamgene/uka_operator" 
     },
-     {
-      "version": "0.4.2",
-      "url": "https://github.com/pamgene/uka_operator" 
-    },
     {
       "version": "0.4.1",
       "url": "https://github.com/pamgene/uka_shiny_operator"
