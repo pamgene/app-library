@@ -37,7 +37,7 @@
       "url": "https://github.com/pamgene/uka_operator" 
     },
     {
-      "version": "0.4.1",
+      "version": "0.5.0",
       "url": "https://github.com/pamgene/uka_shiny_operator"
     },
     {
@@ -71,6 +71,10 @@
     {
       "version": "0.0.2",
       "url": "https://github.com/pamgene/UKA_dotplot_app"
+    },
+    {
+      "version": "1.2.2",
+      "url": "https://github.com/pamgene/pamsoft_grid_shiny_operator"
     }
   ]
 }
