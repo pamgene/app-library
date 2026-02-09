@@ -1,6 +1,10 @@
 {
   "repos": [
     {
+      "version": "0.2.7",
+      "url": "https://github.com/pamgene/image_analysis_PTK_afterwash_template"
+    },
+    {
       "version": "0.0.2",
       "url": "https://github.com/pamgene/PTK_template"
     },
@@ -33,12 +37,16 @@
       "url": "https://github.com/pamgene/UKA_barplot_app"
     },
     {
+      "version": "0.0.2",
+      "url": "https: //github.com/pamgene/cs_uka_operator"
+    }
+    {
       "version": "0.2.4",
       "url": "https://github.com/pamgene/uka_operator"
     },
     {
       "version": "0.3.7",
-      "url": "https://github.com/pamgene/uka_operator" 
+      "url": "https://github.com/pamgene/uka_operator"
     },
     {
       "version": "0.4.1",
