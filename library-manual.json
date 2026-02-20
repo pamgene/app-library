@@ -13,14 +13,6 @@
       "url": "https://github.com/pamgene/STK_template"
     },
     {
-      "version": "0.1.0",
-      "url": "https://github.com/pamgene/UKA_MTvC_app"
-    },
-    {
-      "version": "0.1.0",
-      "url": "https://github.com/pamgene/UKA_TGC_app"
-    },
-    {
       "version": "0.4.2",
       "url": "https://github.com/pamgene/UKA_shiny_app"
     },
@@ -81,7 +73,7 @@
       "url": "https://github.com/pamgene/dotplot_operator"
     },
     {
-      "version": "0.0.2",
+      "version": "0.0.4",
       "url": "https://github.com/pamgene/UKA_dotplot_app"
     },
     {
