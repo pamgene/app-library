@@ -79,6 +79,14 @@
     {
       "version": "1.2.2",
       "url": "https://github.com/pamgene/pamsoft_grid_shiny_operator"
+    },
+    {
+      "version": "0.0.3",
+      "url": "https: //github.com/tercen/volcano_flutter_operator"
+    },
+    {
+      "version": "0.0.2",
+      "url": "https://github.com/tercen/pca_flutter_operator"
     }
   ]
 }
