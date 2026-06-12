@@ -95,6 +95,14 @@
     {
       "version": "0.0.1",
       "url": "https://github.com/pamgene/mean-variance_flutter_operator"
+    },
+    {
+      "version": "0.0.2",
+      "url": "https://github.com/pamgene/csUKA_app"
+    },
+    {
+      "version": "0.0.1",
+      "url": "https://github.com/pamgene/csUKA_dotplot_app"
     }
   ]
 }
