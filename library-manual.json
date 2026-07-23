@@ -22,10 +22,6 @@
     },
     {
       "version": "0.0.3",
-      "url": "https://github.com/pamgene/UKA_barplot_app"
-    },
-    {
-      "version": "0.0.3",
       "url": "https://github.com/pamgene/cs_uka_operator"
     },
     {
@@ -57,7 +53,7 @@
       "url": "https://github.com/pamgene/limma_psa_operator"
     },
     {
-      "version": "0.0.6",
+      "version": "0.0.7",
       "url": "https://github.com/pamgene/Limma_app"
     },
     {
