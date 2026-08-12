@@ -109,11 +109,11 @@
       "url": "https://github.com/pamgene/csUKA_dotplot_app"
     },
     {
-      "version": "0.4.0",
+      "version": "0.4.3",
       "url": "https://github.com/tercen/pamsoft_grid_rust_operator"
     },
     {
-      "version": "0.2.12",
+      "version": "0.2.13",
       "url": "https://github.com/tercen/pamsoft_grid_qt_rust_operator"
     }
   ]
