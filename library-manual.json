@@ -111,6 +111,10 @@
     {
       "version": "0.2.13",
       "url": "https://github.com/tercen/pamsoft_grid_qt_rust_operator"
+    },
+    {
+      "version": "0.0.6",
+      "url": "https://github.com/pamgene/cs_uka_operator"
     }
   ]
 }
