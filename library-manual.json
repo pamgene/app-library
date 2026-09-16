@@ -85,7 +85,7 @@
       "url": "https://github.com/tercen/pca_flutter_operator"
     },
     {
-      "version": "0.0.8",
+      "version": "0.0.11",
       "url": "https://github.com/pamgene/pamsoft_grid_flutter_operator"
     },
     {
@@ -115,6 +115,10 @@
     {
       "version": "0.0.6",
       "url": "https://github.com/pamgene/cs_uka_operator"
+    },
+    {
+      "version": "1.1.2",
+      "url": "https://github.com/tercen/export_table_operator"
     }
   ]
 }
