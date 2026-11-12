@@ -1,11 +1,11 @@
 {
   "repos": [
     {
-      "version": "0.2.11",
+      "version": "0.2.13",
       "url": "https://github.com/pamgene/image_analysis_PTK_prewash_template"
     },
     {
-      "version": "0.2.10",
+      "version": "0.2.11",
       "url": "https://github.com/pamgene/image_analysis_PTK_afterwash_template"
     },
     {
